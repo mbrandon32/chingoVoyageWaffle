@@ -1,1 +1,2 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/mbrandon32/chingoVoyageWaffle.png?columns=all)](https://waffle.io/mbrandon32/chingoVoyageWaffle?utm_source=badge)
 # chingoVoyageWaffle
